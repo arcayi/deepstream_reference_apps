@@ -45,3 +45,6 @@ yolo/data/**/*.png
 yolo/**/build/
 senet/**/build/
 anomaly/**/build/
+deepstream-bodypose-3d/eigen-3.4.0/
+deepstream-bodypose-3d/eigen-3.4.0.tar.gz
+deepstream-bodypose-3d/eigen
